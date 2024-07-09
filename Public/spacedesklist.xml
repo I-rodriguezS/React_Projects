@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DisplayClientList>
+  <ClientID>Wall0<AdapterLUID></AdapterLUID><VideoPresentTargetID></VideoPresentTargetID><IsConnected>0</IsConnected><ConnectionTime>0</ConnectionTime><DisconnectionTime>0</DisconnectionTime><DisconnectReason>--</DisconnectReason><DisplayStatus>--</DisplayStatus></ClientID>
+  <ClientID>Wall1<AdapterLUID></AdapterLUID><VideoPresentTargetID></VideoPresentTargetID><IsConnected>0</IsConnected><ConnectionTime>0</ConnectionTime><DisconnectionTime>0</DisconnectionTime><DisconnectReason>--</DisconnectReason><DisplayStatus>--</DisplayStatus></ClientID>
+  <ClientID>{ebc5aa13-3bd2-44d0-92a0-630b21393c83}<AdapterLUID></AdapterLUID><VideoPresentTargetID>256</VideoPresentTargetID><IsConnected>0</IsConnected><ConnectionTime>11:10:36 AM</ConnectionTime><DisconnectionTime>11:11:12 AM</DisconnectionTime><DisconnectReason>Error: Connection Lost</DisconnectReason><DisplayStatus>Extension mode</DisplayStatus></ClientID>
+</DisplayClientList>
